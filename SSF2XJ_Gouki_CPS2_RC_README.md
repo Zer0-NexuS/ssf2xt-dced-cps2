@@ -1,6 +1,6 @@
 # Super Street Fighter II X — Gouki Integration
 
-## CP21 RC5 • Player and enthusiast guide
+## CP21 RC • Player and enthusiast guide
 
 This fan-made modification expands the Japanese CPS2 version of **Super Street
 Fighter II X: Grand Master Challenge**, known internationally as **Super Street
