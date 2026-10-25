@@ -1,6 +1,17 @@
-# Super Street Fighter II X — Gouki Integration
+```text
+███████╗██╗      ██████╗
+██╔════╝██║     ██╔════╝
+███████╗██║     ██║  ███╗
+╚════██║██║     ██║   ██║
+███████║███████╗╚██████╔╝
+╚══════╝╚══════╝ ╚═════╝
+```
 
-## CP21 RC • Player and enthusiast guide
+# Super Street Fighter II X — Gouki Dreamcast Intergrade 
+
+## CP2.2 RC • Player and enthusiast guide
+
+<img width="1798" height="1346" alt="image" src="https://github.com/user-attachments/assets/e328d5cc-2458-4ba1-babc-3bde0710083b" />
 
 This fan-made modification expands the Japanese CPS2 version of **Super Street
 Fighter II X: Grand Master Challenge**, known internationally as **Super Street
