@@ -218,7 +218,7 @@ is not a board-installation kit.
 
 Focused emulator checks cover character selection on both sides, the move
 families, meter gain, added supers, super-KO effects, names and result text,
-ending transitions, intro inputs and saved title choices. RC5's final layout
+ending transitions, intro inputs and saved title choices. v1.1 final layout
 was compared with the supplied Dreamcast reference, and its title fades were
 checked after the spacing correction.
 
