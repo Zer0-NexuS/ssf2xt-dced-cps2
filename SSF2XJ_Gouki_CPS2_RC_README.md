@@ -214,9 +214,7 @@ is not a board-installation kit.
 
 | File | Purpose |
 | --- | --- |
-| **SSF2XJ_Gouki_CP21_RC5.zip** | Complete patched game ROM set. |
-| **SSF2XJ_Gouki_CP21_RC5_IPS.zip** | Upgrade patches, application helper and player/patching guides. |
-| **SSF2XJ_Gouki_Integration_Checkpoint21_RC5.zip** | Development/recovery material; unnecessary for playing. |
+| **ssf2xj-patcher.zip** | Upgrade patches, application helper and player/patching guides. |
 
 Focused emulator checks cover character selection on both sides, the move
 families, meter gain, added supers, super-KO effects, names and result text,
