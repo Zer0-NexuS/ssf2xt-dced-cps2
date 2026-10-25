@@ -9,11 +9,11 @@
 
 # Super Street Fighter II X — Gouki Dreamcast Intergrade 
 
-## CP2.2 RC • Player and enthusiast guide
+## v1.1 RC • Player and Enthusiast Guide
 
 <img width="1798" height="1346" alt="image" src="https://github.com/user-attachments/assets/e328d5cc-2458-4ba1-babc-3bde0710083b" />
 
-
+---
 This fan-made modification expands the Japanese CPS2 version of **Super Street
 Fighter II X: Grand Master Challenge**, known internationally as **Super Street
 Fighter II Turbo**. It makes **Gouki, Shin Gouki and Ten Gouki** selectable through
@@ -23,10 +23,13 @@ game.
 The project uses the CPS2 game engine. **Super Street Fighter II X for Matching
 Service on Dreamcast** supplied reference material, artwork and animation
 information. The additions were integrated into the arcade game so that play
-still uses familiar six-button Street Fighter controls.
+still uses familiar six-button Street Fighter controls. But, noteably, does 
+not modify the original gameplay engine beyond adding these characters - and in
+addition to that, uses the Japanese difficulty engine which isn't broken (unlike
+its USA counterpart).
 
-**Release status:** RC5 is an emulator-tested release candidate. Physical CPS2
-hardware operation has not been verified.
+**Release status:** v1.1 is an emulator-tested release candidate. Physical CPS2
+hardware has been verified.
 
 ## Choosing Gouki and his variants
 
