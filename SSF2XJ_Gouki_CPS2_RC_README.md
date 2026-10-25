@@ -13,6 +13,7 @@
 
 <img width="1798" height="1346" alt="image" src="https://github.com/user-attachments/assets/e328d5cc-2458-4ba1-babc-3bde0710083b" />
 
+
 This fan-made modification expands the Japanese CPS2 version of **Super Street
 Fighter II X: Grand Master Challenge**, known internationally as **Super Street
 Fighter II Turbo**. It makes **Gouki, Shin Gouki and Ten Gouki** selectable through
